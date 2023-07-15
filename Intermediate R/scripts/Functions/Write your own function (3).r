@@ -1,7 +1,7 @@
-# Add an optional argument, named print_info, that is TRUE by default.
-# Wrap an if construct around the print() function:
-# this function should only be executed if print_info is TRUE.
-# Feel free to experiment with the pow_two() function you've just coded.
+# Agrega un argumento opcional llamado print_info, que es TRUE por defecto.
+# Envuelve una estructura if alrededor de la función print():
+# esta función solo debe ejecutarse si print_info es TRUE.
+# Siéntete libre de experimentar con la función pow_two().
 
 # Finish the pow_two() function
 pow_two <- function(x, print_info = TRUE) {

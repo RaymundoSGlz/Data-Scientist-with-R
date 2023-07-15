@@ -1,6 +1,6 @@
-# Define a function, hello(). It prints out "Hi there!"
-# and returns TRUE. It has no arguments.
-# Call the function hello(), without specifying arguments of course.
+# Define una función, hello(). Imprime "Hi there!" y devuelve TRUE.
+# No tiene argumentos.
+# Llama a la función hello(), sin especificar argumentos.
 
 # Define the function hello()
 hello <- function() {

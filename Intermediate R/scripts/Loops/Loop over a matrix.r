@@ -1,14 +1,14 @@
-# Finish the nested for loops to go over the elements in ttt:
+# Termina los bucles anidados para recorrer los elementos en ttt:
 
-# The outer loop should loop over the rows,
-# with loop index i (use seq_len(nrow(ttt))).
+# El bucle externo debe recorrer las filas,
+# con el índice de bucle i (usa seq_len(nrow(ttt))).
 
-# The inner loop should loop over the columns,
-# with loop index j (use seq_len(ncol(ttt))).
-# Inside the inner loop, make use of print() and paste()
-# to print out information in the following format:
+# El bucle interno debe recorrer las columnas,
+# con el índice de bucle j (usa seq_len(ncol(ttt))).
+# Dentro del bucle interno, utiliza print() y paste()
+# para imprimir información en el siguiente formato:
 # "On row i and column j the board contains x",
-# where x is the value on that position.
+# donde x es el valor en esa posición.
 
 # The tic-tac-toe matrix ttt has already been defined for you
 ttt <- matrix(c("O", NA, "X",

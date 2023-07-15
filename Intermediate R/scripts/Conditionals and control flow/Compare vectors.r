@@ -1,9 +1,9 @@
-# Using relational operators, find a logical answer, i.e. TRUE or FALSE
-# for the following questions:
+# Usando los operadores lógicos,encuentre una respuesta lógica i.e. TRUE o FALSE
+# Para las siguientes preguntas:
 
-# On which days did the number of LinkedIn profile views exceed 15?
-# When was your LinkedIn profile viewed only 5 times or fewer?
-# When was your LinkedIn profile visited more often than your Facebook profile?
+# ¿En qué días el número de vistas de perfil de LinkedIn superó los 15?
+# ¿Cuándo se vio su perfil de LinkedIn solo 5 veces o menos?
+# ¿Cuándo se visitó su perfil de LinkedIn más que su perfil de Facebook?
 
 # The linkedin and facebook vectors have already been created for you
 linkedin <- c(16, 9, 13, 5, 2, 17, 14)

@@ -1,9 +1,9 @@
-# Calculate the average number of LinkedIn profile views,
-# without specifying any optional arguments.
-# Simply print the result to the console.
+# Calcular el número promedio de vistas de perfil de LinkedIn,
+# sin especificar ningún argumento opcional.
+# Simplemente imprima el resultado en la consola.
 
-# Calculate the average number of LinkedIn profile views,
-# but this time tell R to strip missing values from the input vector.
+# Calcular el número promedio de vistas de perfil de LinkedIn,
+# pero esta vez indique a R que elimine los valores faltantes de la entrada.
 
 # The linkedin and facebook vectors have already been created for you
 linkedin <- c(16, 9, 13, 5, NA, 17, 14)

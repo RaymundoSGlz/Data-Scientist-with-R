@@ -1,11 +1,11 @@
-# Finish the function definition for interpret(),
-# that interprets the number of profile views on a single day:
-# The function takes one argument, num_views.
-# If num_views is greater than 15, the function prints out
-# "You're popular!" to the console and returns num_views.
-# Else, the function prints out "Try to be more visible!" and returns 0.
-# Finally, call the interpret() function twice: on the first value
-# of the linkedin vector and on the second element of the facebook vector.
+# Completa la definición de la función interpret(),
+# que interpreta el número de vistas de perfil en un solo día:
+# La función toma un argumento, num_views.
+# Si num_views es mayor que 15, la función imprime en la consola
+# "You're popular!" y devuelve num_views.
+# De lo contrario, la función imprime "Try to be more visible!" y devuelve 0.
+# Finalmente, llama a la función interpret() dos veces: en el primer valor
+# del vector linkedin y en el segundo elemento del vector facebook.
 
 # The linkedin and facebook vectors have already been created for you
 linkedin <- c(16, 9, 13, 5, 2, 17, 14)

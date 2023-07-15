@@ -1,7 +1,7 @@
-# Add code to the for loop that loops over the elements of the linkedin vector:
+# Agrega código al bucle for que recorre los elementos del vector linkedin:
 
-# If the vector element's value exceeds 10, print out "You're popular!".
-# If the vector element's value does not exceed 10, print out "Be more visible!"
+# Si el valor del elemento supera los 10, imprime "You're popular!".
+# Si el valor del elemento no supera los 10, imprime "Be more visible!"
 
 # The linkedin vector has already been defined for you
 linkedin <- c(16, 9, 13, 5, 2, 17, 14)

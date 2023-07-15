@@ -1,7 +1,7 @@
-# Write a for loop that iterates over all the elements of linkedin
-# and prints out every element separately.
-# Do this in two ways: using the loop version 1
-# and the loop version 2 in the example code above.
+# Escribe un bucle for que itere sobre todos los elementos de linkedin
+# e imprima cada elemento por separado.
+# Haz esto de dos maneras: usando la versión de bucle 1
+# y la versión de bucle 2 en el código de ejemplo de arriba.
 
 # The linkedin vector has already been defined for you
 linkedin <- c(16, 9, 13, 5, 2, 17, 14)

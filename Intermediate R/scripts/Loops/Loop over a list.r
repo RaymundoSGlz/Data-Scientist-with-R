@@ -1,9 +1,9 @@
-# As in the previous exercise,
-# loop over the nyc list in two different ways to print its elements:
+# Al igual que en el ejercicio anterior,
+# recorre la lista nyc de dos maneras diferentes para imprimir sus elementos:
 
-# Loop directly over the nyc list (loop version 1).
-# Define a looping index and do subsetting
-# using double brackets (loop version 2).
+# Recorre directamente la lista nyc (versión de bucle 1).
+# Define un índice de bucle y realiza subconjuntos
+# usando corchetes dobles (versión de bucle 2).
 
 # The nyc list is already specified
 nyc <- list(pop = 8405837,

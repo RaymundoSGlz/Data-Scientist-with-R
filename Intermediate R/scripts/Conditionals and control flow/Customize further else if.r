@@ -1,13 +1,13 @@
-# Add code to both control structures such that:
+# Agregue código a ambas estructuras de control de tal manera que:
 
-# R prints out "Showing Facebook information"
-# if medium is equal to "Facebook". Remember that R is case sensitive!
-# "Your number of views is average" is printed if num_views
-# is between 15 (inclusive) and 10 (exclusive).
-# Feel free to change the variables medium and num_views
-# to see how the control structure respond. In both cases,
-# the existing code should be extended in the else if statement.
-# No existing code should be modified.
+# R imprima "Showing Facebook information"
+# si medium es igual a "Facebook". Recuerde R distingue mayúsculas y minúsculas.
+# "Your number of views is average" se imprime si num_views
+# está entre 15 (incluido) y 10 (excluido).
+# Siéntase libre de cambiar las variables medium y num_views
+# para ver cómo responde la estructura de control. En ambos casos,
+# el código existente debe extenderse en la instrucción else if.
+# No se debe modificar ningún código existente.
 
 # Variables related to your last day of recordings
 medium <- "LinkedIn"

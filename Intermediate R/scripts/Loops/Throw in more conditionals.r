@@ -1,6 +1,6 @@
-# If the speed is greater than 48, have R print out "Slow down big time!",
-# and decrease the speed by 11.
-# Otherwise, have R simply print out "Slow down!", and decrease the speed by 6.
+# Si la velocidad es mayor que 48, haz que R imprima "Slow down big time!",
+# y disminuye la velocidad en 11.
+# De lo contrario, imprima "Slow down!",y disminuye la velocidad en 6.
 
 # Initialize the speed variable
 speed <- 64

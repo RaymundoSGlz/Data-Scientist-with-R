@@ -1,9 +1,9 @@
-# Use abs() on linkedin - facebook to get the absolute differences
-# between the daily LinkedIn and Facebook profile views.
-# Place the call to abs() inside mean() to calculate the
-# Mean Absolute Deviation.
-# In the mean() call, make sure to specify na.rm
-# to treat missing values correctly!
+# Usa abs() en linkedin - facebook para obtener las diferencias absolutas
+# entre las vistas diarias de los perfiles de LinkedIn y Facebook.
+# Coloca la llamada a abs() dentro de mean() para calcular la
+# Desviación Media Absoluta.
+# En la llamada a mean(), asegúrate de especificar na.rm
+# para tratar correctamente los valores faltantes.
 
 # The linkedin and facebook vectors have already been created for you
 linkedin <- c(16, 9, 13, 5, NA, 17, 14)

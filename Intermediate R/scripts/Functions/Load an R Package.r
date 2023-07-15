@@ -1,7 +1,7 @@
-# To fix the error you saw in the console, load the ggplot2 package.
-# Make sure you are loading (and not installing) the package!
-# Now, retry calling the qplot() function with the same arguments.
-# Finally, check out the currently attached packages again.
+# Para solucionar el error que viste en la consola, carga el paquete ggplot2.
+# Asegúrate de cargar (y no instalar) el paquete.
+# Ahora, vuelve a llamar a la función qplot() con los mismos argumentos.
+# Finalmente, verifica los paquetes actualmente adjuntos.
 
 # Load the ggplot2 package
 library(ggplot2)

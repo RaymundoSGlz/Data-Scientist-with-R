@@ -1,9 +1,9 @@
-# Add an else statement to both control structures, such that
+# Agrega una sentencia else a ambas estructuras de control, de modo que
 
-# "Unknown medium" gets printed out to the console when
-# the if-condition on medium does not hold.
-# R prints out "Try to be more visible!" when
-# the if-condition on num_views is not met.
+# "Unknown medium" se imprima en la consola cuando
+# la condición if en medium no se cumple.
+# R imprime "Try to be more visible!" cuando
+# la condición if en num_views no se cumple.
 
 # Variables related to your last day of recordings
 medium <- "LinkedIn"

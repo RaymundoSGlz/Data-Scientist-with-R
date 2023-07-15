@@ -1,8 +1,8 @@
-# Finish the while loop so that it:
+# Termina el bucle while para que:
 
-# prints out the triple of i, so 3 * i, at each run.
-# is abandoned with a break if the triple of i is divisible by 8,
-# but still prints out this triple before breaking.
+# imprima el triple de i, es decir, 3 * i, en cada ejecución.
+# se abandone con un break si el triple de i es divisible por 8,
+# pero aún así imprime este triple antes de salir del bucle.
 
 # Initialize i as 1
 i <- 1

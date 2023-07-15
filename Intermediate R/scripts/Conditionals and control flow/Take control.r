@@ -1,11 +1,11 @@
-# Finish the control-flow construct with the following behavior:
+# Completa la estructura de control con el siguiente comportamiento:
 
-# If both li and fb are 15 or higher,
-# set sms equal to double the sum of li and fb.
-# If both li and fb are strictly below 10,
-# set sms equal to half the sum of li and fb.
-# In all other cases, set sms equal to li + fb.
-# Finally, print the resulting sms variable.
+# Si tanto li como fb son 15 o más,
+# establece sms igual al doble de la suma de li y fb.
+# Si tanto li como fb son estrictamente menores que 10,
+# establece sms igual a la mitad de la suma de li y fb.
+# En todos los demás casos, establece sms igual a li + fb.
+# Finalmente, imprime la variable sms resultante.
 
 # Variables related to your last day of recordings
 li <- 15

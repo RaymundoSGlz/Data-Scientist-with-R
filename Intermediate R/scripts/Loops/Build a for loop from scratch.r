@@ -1,9 +1,9 @@
-# Initialize the variable rcount, as 0.
-# Finish the for loop:
-# if char equals "r", increase the value of rcount by 1.
-# if char equals "u", leave the for loop entirely with a break.
-# Finally, print out the variable rcount to the console
-# to see if your code is correct.
+# Inicializa la variable rcount en 0.
+# Completa el bucle for:
+# si char es igual a "r", aumenta el valor de rcount en 1.
+# si char es igual a "u", sal del bucle for con un break.
+# Finalmente, imprime la variable rcount en la consola
+# para ver si el código es correcto.
 
 # Pre-defined variables
 rquote <- "r's internals are irrefutably intriguing"

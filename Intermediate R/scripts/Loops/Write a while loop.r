@@ -1,11 +1,11 @@
-# Code a while loop with the following characteristics:
+# Codifica un bucle while con las siguientes características:
 
-# The condition of the while loop should check if speed is higher than 30.
-# Inside the body of the while loop, print out "Slow down!".
-# Inside the body of the while loop, decrease the speed by 7 units
-# and assign this new value to speed again.
-# This step is crucial;
-# otherwise your while loop will never stop and your session will expire.
+# La condición del bucle while debe verificar si la velocidad es mayor que 30.
+# Dentro del cuerpo del bucle while, imprime "Slow down!".
+# Dentro del cuerpo del bucle while, disminuye la velocidad en 7 unidades
+# y asigna este nuevo valor a la variable speed nuevamente.
+# Este paso es crucial;
+# de lo contrario, tu bucle while nunca se detendrá y tu sesión expirará.
 
 # Initialize the speed variable
 speed <- 64

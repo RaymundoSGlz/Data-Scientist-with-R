@@ -1,8 +1,8 @@
-# Examine the if statement that prints out "Showing LinkedIn information"
-# if the medium variable equals "LinkedIn".
+# Examinar la declaración if que imprime "Mostrando información de LinkedIn"
+# si la variable medium es igual a "LinkedIn".
 
-# Code an if statement that prints "You are popular!" to the console
-# if the num_views variable exceeds 15.
+# Codificar una declaración if que imprima "You are popular!" en la consola
+# si la variable num_views supera los 15.
 
 # Variables related to your last day of recordings
 medium <- "LinkedIn"

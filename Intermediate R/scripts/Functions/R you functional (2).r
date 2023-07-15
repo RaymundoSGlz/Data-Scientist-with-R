@@ -1,14 +1,14 @@
-# Finish the template for the interpret_all() function:
+# Completa la plantilla para la función interpret_all():
 
-# Make return_sum an optional argument, that is TRUE by default.
-# Inside the for loop, iterate over all views: on every iteration,
-# add the result of interpret(v) to count. Remember that interpret(v)
-# returns v for popular days, and 0 otherwise.
-# At the same time, interpret(v) will also do some printouts.
-# Finish the if construct:
-# If return_sum is TRUE, return count.
-# Else, return NULL.
-# Call this newly defined function on both linkedin and facebook.
+# Haz que return_sum sea un argumento opcional, que por defecto sea TRUE.
+# Dentro del bucle for, itera sobre todas las vistas: en cada iteración,
+# agrega el resultado de interpret(v) a count. Recuerda que interpret(v)
+# devuelve v para los días populares, y 0 en caso contrario.
+# Al mismo tiempo, interpret(v) también imprimirá algunos mensajes.
+# Completa la estructura if:
+# Si return_sum es TRUE, devuelve count.
+# De lo contrario, devuelve NULL.
+# Llama a esta función recién definida en linkedin y facebook.
 
 # The linkedin and facebook vectors have already been created for you
 linkedin <- c(16, 9, 13, 5, 2, 17, 14)

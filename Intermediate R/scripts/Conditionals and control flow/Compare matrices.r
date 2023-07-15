@@ -1,11 +1,11 @@
-# Using the relational operators you've learned so far,
-# try to discover the following:
+# Usando los operadores relacionales que has aprendido hasta ahora,
+# intenta descubrir lo siguiente:
 
-# When were the views exactly equal to 13? 
-#Use the views matrix to return a logical matrix.
+# ¿Cuándo fueron las vistas exactamente iguales a 13?
+# Usa la matriz de vistas para devolver una matriz lógica.
 
-# For which days were the number of views less than or equal to 14?
-# Again, have R return a logical matrix.
+# ¿Para qué días el número de vistas fue menor o igual a 14?
+# Nuevamente, haz que R devuelva una matriz lógica.
 
 # The social data has been created for you
 linkedin <- c(16, 9, 13, 5, 2, 17, 14)

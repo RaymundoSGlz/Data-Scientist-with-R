@@ -1,14 +1,14 @@
-# Select the entire second column, named day2,
-# from the li_df data frame as a vector and assign it to second.
+# Selecciona toda la segunda columna, llamada day2,
+# del data frame li_df como un vector y asígnalo a second.
 
-# Use second to create a logical vector, that contains TRUE if the corresponding
-# number of views is strictly greater than 25 or strictly lower than 5
-# and FALSE otherwise.
+# Usa second para crear un vector lógico, que contenga TRUE si el número
+# de vistas es estrictamente mayor que 25 o estrictamente menor que 5
+# y FALSE en caso contrario.
 
-# Store this logical vector as extremes.
-# Use sum() on the extremes vector to calculate the number of TRUEs in extremes
-# (i.e. to calculate the number of employees that are either very popular
-# or very low-profile). Simply print this number to the console.
+# Almacena este vector lógico como extremes.
+# Usa sum() en el vector extremes para calcular el número de TRUE en extremes
+# (es decir, para calcular el número de empleados que son muy populares
+# o muy poco conocidos). Simplemente imprime este número en la consola.
 
 # li_df is pre-loaded in your workspace
 values <- c(2, 19, 24, 22, 25, 22, 0, 12, 19, 23, 29, 13, 7, 26, 7, 32, 7, 9,

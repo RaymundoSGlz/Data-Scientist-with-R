@@ -1,10 +1,10 @@
-# Calculate the mean of the element-wise sum of linkedin and facebook
-# and store the result in a variable avg_sum.
+# Calcula la media de la suma de los elementos de linkedin y facebook
+# y almacena el resultado en una variable llamada avg_sum.
 
-# Calculate the mean once more, but this time set the trim argument equal to 0.2
-# and assign the result to avg_sum_trimmed.
+# Calcula nuevamente, pero esta vez establece el argumento trim igual a 0.2
+# y asigna el resultado a la variable avg_sum_trimmed.
 
-# Print out both avg_sum and avg_sum_trimmed; can you spot the difference?
+# Imprime tanto avg_sum como avg_sum_trimmed; ¿puedes ver la diferencia?
 
 # The linkedin and facebook vectors have already been created for you
 linkedin <- c(16, 9, 13, 5, 2, 17, 14)

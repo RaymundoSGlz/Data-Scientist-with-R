@@ -1,12 +1,12 @@
-# When did LinkedIn views exceed 10
-# and did Facebook views fail to reach 10 for a particular day?
-# Use the linkedin and facebook vectors.
+# ¿Cuándo superaron las vistas de LinkedIn los 10
+# y las vistas de Facebook no alcanzaron los 10 para un día en particular?
+# Usa los vectores linkedin y facebook.
 
-# When were one or both of your LinkedIn and Facebook
-# profiles visited at least 12 times?
+# ¿Cuándo uno o ambos perfiles de LinkedIn y Facebook
+# fueron visitados al menos 12 veces?
 
-# When is the views matrix equal to a number between 11 and 14,
-# excluding 11 and including 14?
+# ¿Cuándo la matriz de vistas es igual a un número entre 11 y 14,
+# excluyendo 11 e incluyendo 14?
 
 # The social data (linkedin, facebook, views) has been created for you
 facebook <- c(17, 7, 5, 16, 8, 13, 14)

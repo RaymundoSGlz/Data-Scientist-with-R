@@ -1,6 +1,7 @@
-# Adapt the while loop such that it is abandoned
-# when the speed of the vehicle is greater than 80.
-# This time, the speed variable has been initialized to 88; keep it that way.
+# Adaptar el ciclo while de modo que se abandone
+# cuando la velocidad del vehículo es superior a 80.
+# Esta vez, la variable de velocidad se ha inicializado a 88;
+# déjalo de esa forma.
 
 # Initialize the speed variable
 speed <- 88

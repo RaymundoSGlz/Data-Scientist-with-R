@@ -1,9 +1,9 @@
-# Extend the for loop with two new, separate if tests as follows:
+# Extienda el bucle for con dos nuevos if separados de la siguiente manera:
 
-# If the vector element's value exceeds 16, print out
-# "This is ridiculous, I'm outta here!" and have R abandon the for loop (break).
-# If the value is lower than 5, print out "This is too embarrassing!"
-# and fast-forward to the next iteration (next).
+# Si el valor del elemento del vector supera los 16, imprima
+# "This is ridiculous, I'm outta here!"  y haga que R abandone el bucle (break).
+# Si el valor es menor que 5, imprima "This is too embarrassing!"
+# y avance rápidamente a la siguiente iteración (next).
 
 # The linkedin vector has already been defined for you
 linkedin <- c(16, 9, 13, 5, 2, 17, 14)
