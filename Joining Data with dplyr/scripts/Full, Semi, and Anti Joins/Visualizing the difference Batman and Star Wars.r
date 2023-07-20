@@ -36,7 +36,7 @@ star_wars_colors <- inventory_parts_themes %>%
     mutate(fraction = total / sum(total))
 
 colors_joined <- batman_colors %>%
-    full_join(star_wars_colors,
+    inner_join(star_wars_colors,
         by = "color_id",
         suffix = c("_batman", "_star_wars")
     ) %>%
