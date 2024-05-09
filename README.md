@@ -7,7 +7,7 @@ Repositorio de seguimiento para el curso de Data Scientist with `R` de [DataCamp
 2. [Intermediate R](./Intermediate%20R/)
 3. [Introduction to the Tidyverse](./Introduction%20to%20the%20Tidyverse/)
 4. [Data Manipulation with dplyr](./Data%20Manipulation%20with%20dplyr/)
-5. [Joining Data in R with dplyr](./Joining%20Data%20in%20R%20with%20dplyr/)
+5. [Joining Data with dplyr](./Joining%20Data%20with%20dplyr/)
 6. [Introduction to Statistics in R](./Introduction%20to%20Statistics%20in%20R/)
 7. [Introduction to Data Visualization with ggplot2](./Introduction%20to%20Data%20Visualization%20with%20ggplot2/)
 8. [Intermediate Data Visualization with ggplot2](./Intermediate%20Data%20Visualization%20with%20ggplot2/)
