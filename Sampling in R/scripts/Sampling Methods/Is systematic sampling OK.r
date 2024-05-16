@@ -4,6 +4,11 @@ library(ggplot2)
 library(fst)
 attrition_pop <- read_fst("data/attrition.fst")
 
+# 1. Agrega una columna de ID de fila a `attrition_pop`.
+#   - Utilizando el conjunto de datos `attrition_pop_id`, traza `YearsAtCompany`
+## versus `rowid` como un gráfico de dispersión,
+## con una línea de tendencia suave.
+
 # Add a row ID column to attrition_pop
 attrition_pop_id <- attrition_pop %>%
   rowid_to_column()
@@ -14,6 +19,11 @@ ggplot(attrition_pop_id, aes(x = rowid, y = YearsAtCompany)) +
   geom_point() +
   # Add a smooth trend line
   geom_smooth()
+
+# 2. Mezcla las filas de `attrition_pop`.
+#   - Agrega una columna de ID de fila a `attrition_pop`.
+#   - Repite el trazado de `YearsAtCompany` versus `rowid` con puntos
+## y una línea de tendencia suave, esta vez utilizando `attrition_shuffled`.
 
 # Shuffle the rows of attrition_pop then add row IDs
 attrition_shuffled <- attrition_pop %>%
